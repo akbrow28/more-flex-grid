@@ -282,6 +282,7 @@ p{
     /* TO DO */
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: 16p 32px;
 }
 
 /* Contact Heading and Paragraph */
